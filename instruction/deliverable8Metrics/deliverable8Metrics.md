@@ -29,7 +29,7 @@ It is time to add metrics observability to the `jwt-pizza-service` code. In your
 
 ## Required metrics
 
-While this list specifies all of the required metrics, the images are just examples. You should explore the full function of Granfana visualizations and come up with something that exemplifies your personality. You should also feel free to add any other metrics that will increase your confidence in the system.
+While this list specifies all of the required metrics, the images are just examples. You should explore the full function of Grafana visualizations and come up with something that exemplifies your personality. You should also feel free to add any other metrics that will increase your confidence in the system.
 
 1. HTTP requests by method/minute
 
