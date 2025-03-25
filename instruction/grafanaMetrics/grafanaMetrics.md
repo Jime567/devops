@@ -129,7 +129,7 @@ Next we will create a simple Express service that sends metrics to Grafana.
 Create a simple Express app by doing the following.
 
 1. Open your command console.
-1. Execute the commends:
+1. Execute the commands:
    ```sh
    mkdir metricsExample && cd metricsExample
    npm init -y

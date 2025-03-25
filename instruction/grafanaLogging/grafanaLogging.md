@@ -163,7 +163,7 @@ You can stop your curl command from generating logs by directly calling the Graf
 In order to demonstrate how to generate logs from your code, we need a simple Express service. Create the service by doing the following.
 
 1. Open your command console.
-1. Execute the commends:
+1. Execute the commands:
    ```sh
    mkdir loggingExample && cd loggingExample
    npm init -y
